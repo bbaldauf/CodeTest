@@ -1,0 +1,6 @@
+@RapidPay_HostAddress = http://localhost:5231
+
+GET {{RapidPay_HostAddress}}/CardManagement/
+Accept: application/json
+
+###
